@@ -1,0 +1,40 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+p,
+li {
+    font-family: "Helvetica", sans-serif;
+}
+
+h1,
+h2 {
+    font-family: "Verdana", sans-serif;
+}
+
+.unordered {
+    font-size: 14px;
+}
+
+.center {
+    text-align: center;
+}
+
+ol {
+    color: lavender;
+    background-color: teal;
+}
+
+.header {
+    background-color: black;
+    color: orange;
+}
+
+div {
+    color: pink;
+}
+
+h1 {
+    text-align: center;
+}
